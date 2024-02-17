@@ -1696,8 +1696,8 @@ section{ counter-reset: featured-imagebox-procedure; }
     opacity: 1;
 }
 .featured-imagebox-portfolio.style1:hover .ttm-media-link a {
-    -webkit-transform: translate(0);
-    transform: translate(0);
+    -webkit-transform: translateX(50%);
+    transform: translateX(50%);
 }
 .featured-imagebox-portfolio.style1 .featured-thumbnail{
     position: relative;
