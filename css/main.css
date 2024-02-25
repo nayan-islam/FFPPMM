@@ -57,6 +57,22 @@
     General
 ------------------------*/
 
+/* .sub_menu{
+    background: #ffffff;
+        position: absolute !important;
+        width: 200px;
+        display: flex;
+        flex-direction: column;
+        opacity: 0;
+        visibility: hidden;
+        transition: all .4s;
+}
+
+.mega-menu-item:hover > .sub_menu{
+    opacity: 1 !important;
+    visibility: visible !important;
+} */
+
 /** Variables **/
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { 
     display: block;
