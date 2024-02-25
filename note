@@ -1,0 +1,27 @@
+<div class="container">
+            <div class="row no-gutters">
+              <div class="col-xl-12 d-flex flex-row align-items-center">
+                <div class="top_bar_contact_item">
+                  <div class="top_bar_icon"><i class="ti ti-email"></i></div>
+                  <a href="mailto:info@finestprocess.com">info@finestprocess.com</a>
+                </div>
+                <div class="top_bar_contact_item">
+                  <div class="top_bar_icon">
+                    <i class="ti ti-location-pin"></i>
+                  </div>
+                  Rupsha Tower, Plot-07, Flat-15B, Road No.-17, Block-C, Banani,
+                  Dhaka-1213
+                </div>
+                <div class="top_bar_contact_item top_bar_social ml-auto p-0">
+                  <ul class="social-icons list-inline">
+                    <li>
+                      <a class="tooltip-top" href="https://www.facebook.com/FPMICS/" rel="noopener" aria-label="facebook" data-tooltip="Facebook"><i class="fa fa-facebook"></i></a>
+                    </li>
+                    <li>
+                      <a class="tooltip-top" href="https://www.linkedin.com/company/finest-process-management/" rel="noopener" aria-label="linkedin" data-tooltip="Linkedin"><i class="fa fa-linkedin"></i></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
